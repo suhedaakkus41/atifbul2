@@ -1,0 +1,119 @@
+{
+  "target_publication": {
+    "title": "Kurumsal Kaynak Planlaması (ERP) Yazılımının En Uygun Uzlaşık Çözüm (VIKOR) ile Seçimi",
+    "authors": [
+      "Remzi Başar",
+      "Hakan Murat Arslan"
+    ],
+    "year": 2017,
+    "journal": "Süleyman Demirel Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi",
+    "volume": 22,
+    "issue": 4,
+    "pages": "1065–1080",
+    "source_url": "https://dergipark.org.tr/tr/download/article-file/1008043"
+  },
+  "page_numbering": "PDF sayfaları 1’den başlar; basılı sayfa ayrıca belirtilmiştir.",
+  "test_cases": [
+    {
+      "excel_no": 17,
+      "pdf": "03_Dogrulanmis_Atiflar/17_Umut_Kazanci_2021_Tam_Tez.pdf",
+      "title": "E-Ticaret Lojistiğinin Müşteri Memnuniyeti ve Yeniden Satın Alma Niyeti Üzerindeki Etkileri: Covid-19 Küresel Salgın Dönemi (Yüksek Lisans Tezi)",
+      "year": 2021,
+      "expected_target_citation": true,
+      "manual_verification": "Doğrulandı",
+      "citation_pdf_page": 56,
+      "citation_printed_page": 41,
+      "reference_pdf_page": 128,
+      "reference_printed_page": 113,
+      "total_pdf_pages": 139,
+      "source_url": "https://openaccess.maltepe.edu.tr/entities/publication/431c7210-77bb-4515-90ef-4eb88bde426c",
+      "note": "Kanıt 2021 tezindedir; 2022 makalesi ayrı sürümdür."
+    },
+    {
+      "excel_no": 19,
+      "pdf": "03_Dogrulanmis_Atiflar/19_Busra_Meltem_Turkmen_2026_Tam_Tez.pdf",
+      "title": "Mutfak Eğitiminde Kurumsal Kaynak Planlaması (ERP) — Doktora Tezi",
+      "year": 2026,
+      "expected_target_citation": true,
+      "manual_verification": "Doğrulandı",
+      "citation_pdf_page": 70,
+      "citation_printed_page": 56,
+      "reference_pdf_page": 189,
+      "reference_printed_page": 175,
+      "total_pdf_pages": 215,
+      "source_url": "https://acikerisim.balikesir.edu.tr/bitstreams/038ca9ee-902a-44c3-85ed-a874784cd023/download",
+      "note": "Kanıt doktora tezindedir. Kaynakçada başlıktaki Yazılımının sözcüğü eksik, ortak yazar Arslan, M. yazılmıştır. Önceki dergi makalesiyle karıştırılmamalıdır."
+    },
+    {
+      "excel_no": 20,
+      "pdf": "03_Dogrulanmis_Atiflar/20_Murat_Aras_2019_Tam_Tez.pdf",
+      "title": "Bir Otomotiv Yan Sanayi Firmasında Kullanılan ERP Uygulaması",
+      "year": 2019,
+      "expected_target_citation": true,
+      "manual_verification": "Doğrulandı",
+      "citation_pdf_page": 22,
+      "citation_printed_page": 6,
+      "reference_pdf_page": 119,
+      "reference_printed_page": 103,
+      "total_pdf_pages": 125,
+      "source_url": "https://avesis.deu.edu.tr/advisingtheses/showdocument/7e394443-802a-4bee-ade2-41d84d1fd79b",
+      "note": "Metin içinde Arslan yerine Aslan yazılmış; kaynakça hedef yayınla eşleşiyor."
+    },
+    {
+      "excel_no": 21,
+      "pdf": "03_Dogrulanmis_Atiflar/21_Dijitallesen_Universitelerde_2025_Bolum.pdf",
+      "title": "Dijitalleşen Üniversitelerde Yönetim Bilişim Sistemleri Yaklaşımları — Yönetim Bilişim Sistemlerinde Güncel Konular-II içinde",
+      "year": 2025,
+      "expected_target_citation": true,
+      "manual_verification": "Doğrulandı",
+      "citation_pdf_page": 11,
+      "citation_printed_page": 318,
+      "reference_pdf_page": 19,
+      "reference_printed_page": 326,
+      "total_pdf_pages": 20,
+      "source_url": "https://www.researchgate.net/publication/399100489_Dijitallesen_Universitelerde_Yonetim_Bilisim_Sistemleri_Yaklasimlari",
+      "note": "Muhammed Çağrı Aksu’nun bölümüdür; önceki Erman Kılınç bölümü değildir. PDF sayfaları bu paketteki 20 sayfalık dosyaya göredir."
+    },
+    {
+      "excel_no": 22,
+      "pdf": "03_Dogrulanmis_Atiflar/22_Elmar_Gulmammadov_2023_Tam_Tez.pdf",
+      "title": "Azerbaycan’daki İşletmelerin ERP Uygulamalarının ERP Kullanıcıları Üzerinden İncelenmesi",
+      "year": 2023,
+      "expected_target_citation": true,
+      "manual_verification": "Doğrulandı",
+      "citation_pdf_page": 41,
+      "citation_printed_page": 29,
+      "reference_pdf_page": 92,
+      "reference_printed_page": 80,
+      "total_pdf_pages": 107,
+      "source_url": "https://avesis.deu.edu.tr/advisingtheses/showdocument/07428041-0007-4172-8510-d438e6224ba6",
+      "note": "Tam tez. Kaynakçadaki yayın başlığında Yazılımının kelimesi eksik."
+    },
+    {
+      "excel_no": 23,
+      "pdf": "03_Dogrulanmis_Atiflar/23_SAP_Ic_Denetim_2021_Makale.pdf",
+      "title": "An Application Under Internal Audit and Control in SAP Systems",
+      "year": 2021,
+      "expected_target_citation": true,
+      "manual_verification": "Doğrulandı",
+      "citation_pdf_page": 3,
+      "citation_printed_page": 3,
+      "reference_pdf_page": 12,
+      "reference_printed_page": 12,
+      "total_pdf_pages": 14,
+      "source_url": "https://doi.org/10.26579/jocrebe.86",
+      "note": "Metin içi atıf ve kaynakça eşleşiyor."
+    },
+    {
+      "excel_no": null,
+      "related_excel_no": 17,
+      "pdf": "04_Kontrol_Ornegi/17_Ayni_Baslik_2022_Makale_Hedef_Atif_Bulunamadi.pdf",
+      "title": "E-Ticaret Lojistiğinin Müşteri Memnuniyeti ve Yeniden Satın Alma Niyeti Üzerindeki Etkileri: Covid-19 Küresel Salgın Dönemi — 2022 makalesi",
+      "year": 2022,
+      "expected_target_citation": false,
+      "manual_verification": "İncelenen tam makalede hedef atıf bulunamadı",
+      "note": "2021 teziyle aynı başlık, farklı belge. 17 numaralı doğrulanmış tezin yerine kullanılmamalıdır."
+    }
+  ],
+  "scope_note": "Bu JSON yalnızca altı ERP/VIKOR doğrulanmış örneği ve bir kontrol belgesini tanımlar. Diğer PDF’ler PDF_DOSYA_LISTESI.txt içindedir; bu JSON tüm Excel kayıtlarının test beklentisi değildir."
+}
