@@ -25,7 +25,8 @@ st.markdown(
     """
 <style>
 .stApp { background: #EEF0F5; }
-.block-container { max-width: 1760px; padding: 1.2rem 3rem 3rem; }
+.block-container { max-width: 1320px; padding: 2rem 4.5rem 3rem; margin: 0 auto; }
+@media (max-width: 1500px) { .block-container { padding-left: 3.5rem; padding-right: 3.5rem; } }
 header[data-testid="stHeader"] { display: none; }
 html, body, .stApp { font-size: 16px; }
 
@@ -34,7 +35,7 @@ h1 { color: #111827; font-weight: 800; font-size: 2.6rem; margin-bottom: 0; }
 [data-testid="stWidgetLabel"] p { font-size: 16px; font-weight: 700; color: #111827; }
 
 /* ---------- Üstteki sayfa düğmeleri (Atıf Analizi / PDF Analizi) ---------- */
-.st-key-sayfa_menu button { min-height: 62px !important; border-radius: 18px !important; box-shadow: 0 3px 12px rgba(10,96,214,0.25); }
+.st-key-sayfa_menu button { min-height: 62px !important; border-radius: 18px !important; box-shadow: none !important; }
 .st-key-sayfa_menu button p { font-size: 20px !important; font-weight: 800 !important; }
 .st-key-sayfa_menu button[data-testid="stBaseButton-secondary"] { border: 3px solid #0A60D6 !important; background: #FFFFFF !important; }
 .st-key-sayfa_menu { margin-bottom: 8px; }
@@ -44,7 +45,7 @@ h1 { color: #111827; font-weight: 800; font-size: 2.6rem; margin-bottom: 0; }
     background: #FFFFFF; border: 3px solid #C3C9D4; border-radius: 24px;
     padding: 28px 30px; box-shadow: 0 3px 16px rgba(17,24,39,0.08);
 }
-.st-key-kart_eser, .st-key-kart_sonuc, .st-key-kart_pdf1, .st-key-kart_pdf2 { min-height: 760px; }
+.st-key-kart_eser, .st-key-kart_sonuc, .st-key-kart_pdf1, .st-key-kart_pdf2 { min-height: 700px; }
 .sec { display: flex; align-items: center; gap: 14px; font-size: 25px; font-weight: 800; color: #111827; }
 .num { width: 38px; height: 38px; border-radius: 50%; background: #0A60D6; color: #fff;
        display: inline-flex; align-items: center; justify-content: center; font-size: 19px; flex: none; }
@@ -62,9 +63,10 @@ div[data-baseweb="input"], div[data-baseweb="select"] > div {
 div[data-baseweb="input"] input { font-size: 16px; }
 
 /* ---------- Düğmeler ---------- */
+button, .stButton button, .stDownloadButton button { box-shadow: none !important; }
 button[data-testid="stBaseButton-primary"] {
     background: #0A60D6; color: #FFFFFF; border: 0; border-radius: 999px;
-    min-height: 56px; font-size: 18px; font-weight: 800; box-shadow: 0 4px 12px rgba(10,96,214,0.35);
+    min-height: 56px; font-size: 18px; font-weight: 800; box-shadow: none !important;
 }
 button[data-testid="stBaseButton-primary"] p { font-size: 18px; font-weight: 800; }
 button[data-testid="stBaseButton-secondary"], .stDownloadButton button {
